@@ -6,7 +6,7 @@
 - `TraceHunt.bat` — Launch script for TraceHunt
 - `TraceHunt.ps1` — PowerShell script that performs the forensic analysis
 
-## 🛠 Requirements
+## Requirements
 - Windows 10 or later  
 - PowerShell (v5.0 or later)  
 - Administrator privileges  
